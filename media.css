@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+  .name {
+    font-size: 30px!important;
+	margin:0;
+  }
+  .job{
+	font-size: 24px!important;
+	margin:0;
+}
+}
+
+
+@media (max-width: 480px) {
+	.middle{
+		position:absolute;
+		top:30%;
+		left:40%;
+		transform:translate(-40%,-30%);
+		-ms-transform:translate(-40%,-30%);
+		-webkit-transform:translate(-40%,-30%);
+		text-align:center!important
+	}
+	.name {
+		font-size: 22px!important;
+		margin:0;
+	}
+	.job{
+		font-size: 20px!important;
+		margin:0;
+	}
+}
