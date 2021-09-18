@@ -55,4 +55,7 @@
 	.toright{
 		padding:0;
 	}
+	.bot{
+		padding: 0.06em;
+	}
 }
