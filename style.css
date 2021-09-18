@@ -53,6 +53,9 @@ body, html {
 	top:60%;
 	padding: 1em 20px;
 }
+.toright{
+	padding: 1em 40%;
+}
 
 .toleft:after,.toleft:before{
 	content:"";
