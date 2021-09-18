@@ -31,6 +31,15 @@
 	.toright{
 		padding:1em 20%;
 	}
+	.mod-cont{
+		width:90%
+	}
+	.head{
+		font-size: 80%;
+	}
+	h5{
+		font-size: 18px;
+	}
 }
 
 
@@ -71,5 +80,14 @@
 	}
 	.bot{
 		padding: 0.06em;
+	}
+	.mod-cont{
+		width:80%
+	}
+	.head{
+		font-size: 70%;
+	}
+	h5{
+		font-size: 14px;
 	}
 }
