@@ -40,6 +40,9 @@
 	h5{
 		font-size: 18px;
 	}
+	.sub{
+		margin-left: 25%;
+	}
 }
 
 
@@ -92,5 +95,11 @@
 	}
 	.btnx{
 		padding: 0;
+	}
+	.sub{
+		margin-left: 25%;
+	}
+	.res{
+		margin-left: 25%;
 	}
 }
