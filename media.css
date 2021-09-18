@@ -32,7 +32,7 @@
 		padding:1em 20%;
 	}
 	.mod{
-		padding: 30px;
+		padding-top: 10px;
 	}
 	.mod-cont{
 		width:90%
@@ -88,7 +88,8 @@
 		padding: 0.06em;
 	}
 	.mod{
-		padding: 30px;
+		padding-top: 10px;
+		height:80%
 	}
 	.mod-cont{
 		width:80%
