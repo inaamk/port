@@ -31,6 +31,9 @@
 	.toright{
 		padding:1em 20%;
 	}
+	.mod{
+		padding: 30px;
+	}
 	.mod-cont{
 		width:90%
 	}
@@ -83,6 +86,9 @@
 	}
 	.bot{
 		padding: 0.06em;
+	}
+	.mod{
+		padding: 30px;
 	}
 	.mod-cont{
 		width:80%
