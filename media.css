@@ -17,6 +17,10 @@
 		font-size: 24px!important;
 		margin:0;
 	}
+	.job2{
+		font-size: 22px!important;
+		margin:0;
+	}
 	.toleft{
 		height: 30%;
 		top: 45%;
@@ -42,6 +46,9 @@
 	}
 	h5{
 		font-size: 18px;
+	}
+	p{
+		font-size: 16px;
 	}
 	.sub{
 		margin-left: 25%;
@@ -98,6 +105,9 @@
 	}
 	h5{
 		font-size: 14px;
+	}
+	p{
+		font-size: 12px;
 	}
 	.btnx{
 		padding: 0;
