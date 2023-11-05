@@ -46,6 +46,11 @@ body, html {
 	margin:0;
 }
 
+.job2{
+	font-size: 23px!important;
+	margin:0;
+}
+
 .toleft{
 	display:inline-block;
 	position:absolute;
@@ -171,6 +176,14 @@ a{
 
 hr{
 	width: 90%;
+}
+
+p{
+	font-size: 18px;
+}
+
+.btmpad{
+	padding-bottom: 10px;
 }
 
 .mod-cont{
