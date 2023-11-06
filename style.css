@@ -54,10 +54,15 @@ body, html {
 .toleft{
 	display:inline-block;
 	position:absolute;
-	left:29%;
+	left:23%;
 	top:60%;
 	padding: 1em 20px;
 }
+
+.toleftfr{
+	left:16%;
+}
+
 .toright{
 	padding: 1em 35%;
 }
@@ -151,7 +156,6 @@ body, html {
 .linkedin{
 	width: 5%;
 	height: 5%;
-	
 }
 
 strong, b {
