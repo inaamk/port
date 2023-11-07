@@ -55,7 +55,12 @@
 		font-size: 16px;
 	}
 	.sub{
-		margin-left: 25%;
+		width: 60%;
+		margin-left: 18%;
+	}
+	.res{
+		width: 60%;
+		margin-left: 18%;
 	}
 }
 
@@ -117,10 +122,12 @@
 		padding: 0;
 	}
 	.sub{
-		margin-left: 25%;
+		width: 80%;
+		margin-left: 11%;
 	}
 	.res{
-		margin-left: 25%;
+		width: 80%;
+		margin-left: 11%;
 	}
 	.linkedin{
 		width: 10%;
