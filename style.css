@@ -54,7 +54,7 @@ body, html {
 .toleft{
 	display:inline-block;
 	position:absolute;
-	left:23%;
+	left:20%;
 	top:60%;
 	padding: 1em 20px;
 }
@@ -269,5 +269,3 @@ p{
 .res{
 	margin: 1% 45%;
 }
-
-
