@@ -27,7 +27,7 @@
 			<button onclick="document.getElementById('accomplishment').style.display='block'" class="btn btnS">Accomplishment</button>
 			<!--<button onclick="document.getElementById('services').style.display='block'" class="btn btnS">Services</button>-->
 			<button onclick="document.getElementById('work').style.display='block'" class="btn btnW">My Work</button>
-			<!--<button onclick="document.getElementById('contact').style.display='block'" class="btn btnC">Contact</button>-->
+			<button onclick="document.getElementById('contact').style.display='block'" class="btn btnC">Contact</button>
 		
 			<div class="toright">
 				<a href="resume.pdf" download="resume">
@@ -394,7 +394,7 @@
 			</div>
 		</div>
 		
-		<!--contact
+		<!--contact-->
 		<div id="contact" class="mod">
 			<div class="mod-cont zoom">
 				<div class="head">
@@ -402,10 +402,11 @@
 					<h1>Contact Us</h1>
 				</div>
 				<div class="list">
-					<form method="post" action="mailto:inaam_kabbara@hotmail.com">
+					<form method="post" action="https://formspree.io/f/xpzgnkzb">
 						<h5>Don't hesitate to contact me anytime</h5>
 						<p><input class="inp" type="text" placeholder="Full Name" required name="name"></p>
 						<p><input class="inp" type="email" placeholder="Email" required name="email"></p>
+						<p><input class="inp" type="text" placeholder="Subject" required name="subject"></p>
 						<p><textarea class="inp" type="text" placeholder="Type Your Message Here" name="message" required></textarea></p>
 						<button class="btn sub" type="submit" name="submit" value="submit">SEND MESSAGE</button>
 						<button class="btn res" type="reset" value="Reset">Reset</button>
@@ -413,38 +414,7 @@
 				</div>
 			</div>
 		</div>
-		
-		<div id="contact" class="mod">
-			<div class="mod-cont zoom">
-				<div class="head">
-					<span onclick="document.getElementById('contact').style.display='none'" class="btnx">x</span>
-					<h1>Contact Us</h1>
-				</div>
-				<div class="list">
-					<form method="post" action="send.php">
-						<label for="name">Full Name:</label>
-						<input type="text" id="name" name="name" required><br>
-
-						<label for="email">Email:</label>
-						<input type="email" id="email" name="email" required><br>
-
-						<label for="subject">Subject:</label>
-						<input type="text" id="subject" name="subject" required><br>
-
-						<label for="message">Message:</label>
-						<textarea id="message" name="message" required></textarea><br>
-
-						<input type="submit" name="submit" value="Submit">
-						<input type="reset" name="reset" value="Reset">
-					</form>
-				</div>
-			</div>
-		</div>
-		-->
-
-
-
-		
+				
 	</body>
 	
 </html>
